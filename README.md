@@ -4,6 +4,7 @@
   DSA, Web Development(https://github.com/Matidza/Web-development)
 - 💞️ I’m looking to collaborate on ...Anything related to software engineering.
 - 📫 How to reach me ...on X: https://twitter.com/DLTA_Capital and linkedin profile: https://www.linkedin.com/in/mukwevho-m-z
+   or email me at matida.mukwevho.z@gmail.com
 
 <!---
 Matidza/Matidza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
