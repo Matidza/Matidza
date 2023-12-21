@@ -1,4 +1,5 @@
 - 👋 Hi, I’m **Mukwevho M. Zwivhuya**
+- 👀 I’m interested in Software engineer with expertise in back-end development, financial risk analysis, and data analysis using Python, Django, R, Pandas, and visualization tools. Passionate about integrating diverse skill sets for data-driven financial applications.
 
 - ![](https://visitor-badge.laobi.icu/badge?page_id=matidza.matidza) [![Github](https://img.shields.io/github/followers/matidza?label=Follow&style=social)](https://github.com/matidza)
 
@@ -30,7 +31,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matidza&show_icons=true&theme=tokyonight) <sp /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matidza&theme=tokyonight)
 
-- 👀 I’m interested in software engineering, particularly in back-end development, where I enjoy designing robust server-side applications using languages like Python and frameworks like Django. My interests extend to financial risk analysis, where I apply statistical modeling and programming languages such as Python and R to assess and manage financial risks. Additionally, I thrive in the realm of data analysis, leveraging tools like Pandas for manipulation, Python and R for scripting, and visualization tools like Matplotlib and Seaborn to extract valuable insights from data. I'm excited about exploring intersections between these areas, contributing to data-driven financial applications, and creating systems that seamlessly integrate these diverse skill sets.
+
 <!---
 Matidza/Matidza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
