@@ -1,4 +1,4 @@
-- Hi there 👋 I'm Matidza
+- Hi there 👋 I'm **Matidza**
 
 - ![](https://visitor-badge.laobi.icu/badge?page_id=matidza.matidza) [![Github](https://img.shields.io/github/followers/matidza?label=Follow&style=social)](https://github.com/matidza)
 
