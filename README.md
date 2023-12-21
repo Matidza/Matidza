@@ -8,7 +8,7 @@
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💞️ I’m looking to collaborate on anything related to software engineering.
 - 📫 You can reach me on X: https://twitter.com/DLTA_Capital and linkedin profile: https://www.linkedin.com/in/mukwevho-m-z
-   or email me at matida.mukwevho.z@gmail.com
+   or email me at matidza.mukwevho.z@gmail.com
 
 <!---
 Matidza/Matidza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
