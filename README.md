@@ -20,9 +20,6 @@ I'm selt-taught and aspiring full-stack developer, committed to creating a track
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=matidza&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=matidza&icon=0&color=0)](https://visitcount.itsvg.in)
 
