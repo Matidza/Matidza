@@ -2,7 +2,38 @@
 
 I'm selt-taught and aspiring full-stack developer, committed to creating a track record in designing and implementing robust and scalable software solutions.Focusing on mastering the intricacies of server-side development, I am dedicated to gaining expertise in databases, server architecture, API integration, and well-rounded data structures and algorithms knowledge.
 <br/><br/>
-🔭 I'm currently working on:<br> A Web-App designed for students at <br>North West University. This platform streamlines access to essential information, such as exam timetables, Grade tracking, lecturers contact info etc, without the need to navigate through the entire university website. The goal is to enhance the student experience by providing quick and easy access to crucial academic details.<br><br>👯 I’m looking to collaborate on:<br>Web development projects, particularly those that involve Flask, Python, and front-end design.<br><br>🤝 I’m looking for help with:<br>Optimizing user authentication and database management for web applications.<br><br>🌱 I’m currently learning:<br>Advanced web development techniques, including front-end frameworks like Bootstrap, CSS and HTML, back-end technologies like Django, Postgre SQL, Python data structures and algorithms (DSA), and API development.<br><br>💬 Ask me about:<br>Web development, Python programming, and how to integrate multiple databases into a single application.<br><br>
+
+
+
+---
+
+### 🔭 I'm currently working on:  
+A **Django PostgreSQL website** that allows parents to apply for school admissions for their children from the comfort of their homes—available for any school in South Africa. The platform aims to simplify and streamline the admission process.
+
+### 💡 Recent Project:  
+I recently completed a **student-focused Web-App** for **North West University**. This app provides quick access to essential academic information, such as exam timetables, grade tracking, and lecturer contact details, all without navigating the entire university website.
+
+### 👯 I’m looking to collaborate on:  
+Web development projects, particularly those involving **Flask**, **Python**, and **front-end design**.
+
+### 🤝 I’m looking for help with:  
+Optimizing **user authentication** and **database management** for web applications.
+
+### 🌱 I’m currently learning:  
+Advanced web development techniques, including:  
+- **Front-end:** Bootstrap, CSS, and HTML  
+- **Back-end:** Django, PostgreSQL  
+- **Python DSA** (Data Structures and Algorithms)  
+- **API development**
+
+### 💬 Ask me about:  
+- Web development & Python programming  
+- Integrating multiple databases in a single application  
+- Building **student management platforms**
+
+---
+
+This updated version reflects your new project while keeping the structure engaging and professional! Let me know if you’d like to tweak anything further.
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
