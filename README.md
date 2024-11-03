@@ -14,7 +14,7 @@ A **Django PostgreSQL website** that allows parents to apply for school admissio
 I recently completed a **student-focused Web-App** for **North West University**. This app provides quick access to essential academic information, such as exam timetables, grade tracking, and lecturer contact details, all without navigating the entire university website.
 
 ### 👯 I’m looking to collaborate on:  
-Web development projects, particularly those involving **Flask**, **Python**, and **front-end design**.
+Web development projects, particularly those involving **Django**, **Python**, and **front-end design**.
 
 ### 🤝 I’m looking for help with:  
 Optimizing **user authentication** and **database management** for web applications.
@@ -33,7 +33,6 @@ Advanced web development techniques, including:
 
 ---
 
-This updated version reflects your new project while keeping the structure engaging and professional! Let me know if you’d like to tweak anything further.
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -58,11 +57,6 @@ This updated version reflects your new project while keeping the structure engag
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muwevho-m-z/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/DLTA_Capital) 
 [Portfolio: ](https://matidza.w3spaces.com/index.html)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=matidza&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
 
 <!--
 ## 🏆 GitHub Trophies
