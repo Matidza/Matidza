@@ -1,6 +1,6 @@
 # 💫 Matidza M.Z:
 
-I'm selt-taught and aspiring full-stack developer, committed to creating a track record in designing and implementing robust and scalable software solutions.Focusing on mastering the intricacies of server-side development, I am dedicated to gaining expertise in databases, server architecture, API integration, and well-rounded data structures and algorithms knowledge.
+Selt-taught and aspiring software developer, committed to creating a track record in designing and implementing robust and scalable software solutions.Focusing on mastering the intricacies of server-side development, I am dedicated to gaining expertise in databases, server architecture, API integration, and well-rounded data structures and algorithms knowledge.
 <br/><br/>
 
 
