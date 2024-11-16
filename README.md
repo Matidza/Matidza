@@ -24,7 +24,7 @@ Advanced web development techniques, including:
 - **Front-end:** Bootstrap, CSS, and HTML  
 - **Back-end:** Django, PostgreSQL  
 - **Python DSA** (Data Structures and Algorithms)  
-- **API development**
+- **API development and Integration**
 
 ### 💬 Ask me about:  
 - Web development & Python programming  
