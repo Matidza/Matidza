@@ -1,6 +1,6 @@
 # 💫 Matidza M.Z  
 
-Self-taught **Web Developer** transitioning into **Software Engineering**, driven by a passion for building robust and scalable software solutions. With a focus on mastering server-side development and gaining in-depth expertise in **databases**, **server architecture**, **API integration**, and **data structures & algorithms**, I am committed to a career in crafting impactful and innovative applications.  
+Self-taught Full-stac Web Developer transitioning into Software Engineering, driven by a passion for creating scalable and user-focused software solutions. Proficient in server-side development, database management (MySQL, PostgreSQL, MongoDB), RESTful API integration, and cloud deployment. Experienced with frameworks like Flask and Django, as well as version control with Git and GitHub. Committed to continuous learning and innovation, I strive to build impactful applications using best practices in software engineering.  
 <br/><br/>
 
 ---
