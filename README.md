@@ -26,11 +26,6 @@ I recently completed a **student-focused Web-App** for **North West University**
   - **API development** and **integration**  
 - Advanced **Python DSA** (Data Structures and Algorithms).  
 
-### 💬 Ask me about:  
-- Web development & Python programming  
-- Integrating multiple databases in a single application  
-- Building **scalable student management platforms**  
-
 ---
 
 # 💻 Tech Stack:  
