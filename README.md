@@ -1,73 +1,85 @@
-# 💫 Matidza M.Z  
+---
 
-Self-taught Full-stac Web Developer transitioning into Software Engineering, driven by a passion for creating scalable and user-focused software solutions. Proficient in server-side development, database management (MySQL, PostgreSQL, MongoDB), RESTful API integration, and cloud deployment. Experienced with frameworks like Flask and Django, as well as version control with Git and GitHub. Committed to continuous learning and innovation, I strive to build impactful applications using best practices in software engineering.  
-<br/><br/>
+# 💫 Matidza M.Z
+
+Self-taught **Full-Stack Web Developer** transitioning into **Software Engineering**, passionate about building scalable and user-centric solutions using the **MERN stack** (MongoDB, Express.js, React, Node.js). Skilled in **RESTful API development**, **database design**, **authentication systems**, and **cloud deployment**. With a strong foundation in backend systems and front-end integration, I strive to deliver robust, production-ready applications that solve real-world problems.
+
+<br/>
 
 ---
 
-### 🔭 I'm currently working on:  
-A **Django PostgreSQL website** that enables parents across South Africa to apply for school admissions for their children from the comfort of their homes. The platform simplifies the admission process with features like real-time tracking and document management, bridging the gap between parents and schools.  
+### 🔭 I'm currently working on:
 
-### 💡 Recent Project:  
-I recently completed a **student-focused Web-App** for **North West University**. This application provides students with a personalized dashboard for quick access to exam timetables, grades, and lecturer contact details, eliminating the need to navigate the entire university website.  
+A **MERN-based SaaS platform** that simplifies school admissions for parents across South Africa. The application streamlines the entire process—from online applications to real-time tracking and document uploads—helping bridge the gap between parents and educational institutions.
 
-### 👯 I’m looking to collaborate on:  
-- Web development projects focusing on **Django**, **Python**, or **front-end design**.  
-- Software engineering initiatives that require efficient **API development**, **database design**, and scalable solutions.  
+### 💡 Recent Project:
 
-### 🤝 I’m looking for help with:  
-- Transitioning into software engineering roles.  
-- Optimizing **user authentication** and **database management** for web applications.  
+I recently completed a **student portal** for **North West University**. Built to enhance student experience, the platform provides quick access to exam timetables, academic records, and lecturer contact details—all from a centralized dashboard.
 
-### 🌱 I’m currently learning:  
-- Advanced **web development techniques**, including:  
-  - **Front-end:** Bootstrap, CSS, and HTML  
-  - **Back-end:** Django, PostgreSQL  
-  - **API development** and **integration**  
-- Advanced **Python DSA** (Data Structures and Algorithms).  
+### 👯 I’m looking to collaborate on:
 
----
+* MERN stack-based **web platforms** and **API-first architectures**
+* Projects that involve **real-time features**, **authentication**, and **performance optimization**
+* Scalable SaaS products and tools built with **Node.js**, **MongoDB**, and **React**
 
-# 💻 Tech Stack:  
+### 🤝 I’m looking for help with:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
+* Deepening knowledge in **cloud architecture**, **microservices**, and **containerization**
+* Mastering **async task queues**, **message brokers**, and **horizontal scaling** techniques
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+### 🌱 I’m currently learning:
 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)  
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+* Advanced **JavaScript algorithms** and **data structures**
+* Scalable system design (Redis, Kafka, RabbitMQ, SOLID principles)
+* Performance optimization and caching techniques
+* OAuth 2.0 & secure user authentication systems
 
 ---
 
-## 🌐 Socials:  
+# 💻 Tech Stack:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muwevho-m-z/)          [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/DLTA_Capital)           [Portfolio](https://matidza.w3spaces.com/index.html)
-  
+### 🧠 Core
 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge\&logo=express\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
----  
+### 💾 Database & Deployment
 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+### 🌐 Frontend & Design
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
+
+### 🚀 DevOps & Tools
+
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge\&logo=nginx\&logoColor=white)
+
+---
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muwevho-m-z)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://twitter.com/DLTA_Capital)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23101010.svg?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://matidza.w3spaces.com/index.html)
+
+---
 
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=matidza&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=matidza&icon=0&color=0)](https://visitcount.itsvg.in)-->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
+[![](https://visitcount.itsvg.in/api?id=matidza&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
